@@ -1,0 +1,33 @@
+# Python bytecode files
+__pycache__/
+*.pyc
+*.pyo
+
+# Virtualenvs
+.env/
+.venv/
+venv/
+ENV/
+env/
+
+# Distribution / packaging
+.eggs/
+.nox/
+.tox/
+.coverage
+*.egg-info/
+dist/
+build/
+
+# Jupyter Notebook Checkpoints
+.ipynb_checkpoints/
+
+# IDEs (si tu utilises des éditeurs comme VSCode, PyCharm, etc.)
+.vscode/
+.idea/
+
+# MacOS
+.DS_Store
+
+# Windows
+Thumbs.db
