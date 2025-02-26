@@ -13,7 +13,7 @@ def divide(x, y):
 
 
 def greet(name):
-    #Greet fonction
+    # Greet function
     if name == "":
         return "Hello, World!"
     else:
