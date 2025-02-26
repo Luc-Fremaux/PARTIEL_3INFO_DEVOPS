@@ -1,3 +1,8 @@
+# Badge Test et Lint
+
+![Tests Status](https://github.com/Luc-Fremaux/PARTIEL_3INFO_DEVOPS/workflows/CI%20Workflow/badge.svg)
+![Linter Status](https://github.com/Luc-Fremaux/PARTIEL_3INFO_DEVOPS/workflows/Linter%20Workflow/badge.svg)
+
 # Partiel DEVOPS - Exemple avec Python et GitHub Actions
 
 Ce dépôt contient un projet Python simple avec :
